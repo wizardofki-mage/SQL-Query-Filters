@@ -34,7 +34,8 @@ The SQL queries with filters were performed during course labs on Coursera/Googl
 
 ## Room for improvement
 - I could add more to the portfolio as I learn more SQL techniques, such as INNER JOIN and types of outer joins.
-- Some of my queries have the code all on one line, and others split it up into three lines, the latter of which is probably easier to read. That was a bit inconsistent on my part, but SQL doesn't really care as long as the query is input correctly. Therefore, it's probably not worth revisiting to make it perfectly consistent since the same skills and information are conveyed either way.
+- Some of my queries have the code all on one line, and others split it up into three lines, the latter of which is easier to read. That was a bit inconsistent on my part, but SQL doesn't really care as long as the query is input correctly. Therefore, it's probably not worth revisiting to make it perfectly consistent since the same skills and information are conveyed either way.
+- I was slightly inconsistent with the example query code that I explained and the query and filter code that I typed into MariaDB. For example, in the first task, querying for failed login attempts after hours, I believe WHERE success = FALSE; and WHERE success = 0; accomplish the same thing on a Boolean field.
 
 ## Release date
 31 December, 2025
